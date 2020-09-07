@@ -19,6 +19,6 @@ Good short-form reference, with code editor for trying things out quickly.
 https://www.khanacademy.org/computing/computer-programming
 This is a resource made for school aged people, but it's not childish at all.  The JavaScript section starts with a lot of drawing, which aren't essential, but overall the information is presented in a very clear way and there are plenty of interactive exercises.  
 
-5.On YouTube Learn Web Code
+## 5.On YouTube: Learn Web Code
 https://www.youtube.com/user/LearnWebCode
 From absolute zero (so maybe want to fast forward bits), but really easy to understand at a high level.
