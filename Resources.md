@@ -28,6 +28,16 @@ This is a resource made for school aged people, but it's not childish at all.  T
 https://www.tutorialrepublic.com/
 Has both a web tutorial section (again with interactive exercises) and a practice example sections.
 
-## 7. On YouTube: Learn Web Code
+## 7. FreeCodeCamp
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+Very interactive, no video/audio.  You have to get answers exactly right to progress!
+
+## 8. On YouTube: Learn Web Code
 https://www.youtube.com/user/LearnWebCode
 From absolute zero (so maybe want to fast forward bits), but really easy to understand at a high level. Has really good code alongs.
+
+## 9. On YouTube: Traversy Medie
+https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX (JS playlist link)
+Brad Traversy sells fully joined up courses on Udemy, but covers individual concepts in freely available YouTube videos
+
+
