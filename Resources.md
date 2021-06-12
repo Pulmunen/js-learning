@@ -36,7 +36,7 @@ Very interactive, no video/audio.  You have to get answers exactly right to prog
 https://www.youtube.com/user/LearnWebCode
 From absolute zero (so maybe want to fast forward bits), but really easy to understand at a high level. Has really good code alongs.
 
-## 9. On YouTube: Traversy Medie
+## 9. On YouTube: Traversy Media
 https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX (JS playlist link)
 Brad Traversy sells fully joined up courses on Udemy, but covers individual concepts in freely available YouTube videos
 
