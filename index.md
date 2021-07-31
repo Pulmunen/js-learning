@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Learning resources that have helped me to learn JavaScript.
 
-You can use the [editor on GitHub](https://github.com/Pulmunen/js-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some resources that have helped me to learn JavaScript.  All of them have
+at least a small level of interactivity so that you can try stuff out.  None of them actually require a log in to use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Scrimba Front End Career Path
+https://scrimba.com/path/gfrontend/
+This is my main learning resource.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. The Modern JavaScript Tutorial 
+https://javascript.info/
+Very comprehensive, leaves very few learning gaps.  Includes interactive exercises in a lot of places.
 
-```markdown
-Syntax highlighted code block
+## 3. MDN Front end web developer path
+https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+Has exercise packages in github for you to follow along and add to.  Also has a forum where you can ask for feedback on exercises, instructions in the pages, although this part will involve signing up. This is separate to the MDN reference section, although it is linked from that section.  
 
-# Header 1
-## Header 2
-### Header 3
+##  4.W3 Schools
+https://www.w3schools.com/js/default.asp
+Good short-form reference, with code editor for trying things out quickly.
 
-- Bulleted
-- List
+## 5. The Khan Academy
+https://www.khanacademy.org/computing/computer-programming
+This is a resource made for school aged people, but it's not childish at all.  The JavaScript section starts with a lot of drawing, which aren't essential, but overall the information is presented in a very clear way and there are plenty of interactive exercises.  Best for: DOM manipulation
 
-1. Numbered
-2. List
+## 6.Tutorial republic
+https://www.tutorialrepublic.com/
+Has both a web tutorial section (again with interactive exercises) and a practice example sections.
 
-**Bold** and _Italic_ and `Code` text
+## 7. FreeCodeCamp
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+Very interactive, no video/audio.  You have to get answers exactly right to progress! Best for: Javascript - ES6, functional programming, OO programming.
 
-[Link](url) and ![Image](src)
-```
+## 8. On YouTube: Learn Web Code
+https://www.youtube.com/user/LearnWebCode
+From absolute zero (so maybe want to fast forward bits), but really easy to understand at a high level. Has really good code alongs.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 9. On YouTube: Traversy Media
+https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX (JS playlist link)
+Brad Traversy sells fully joined up courses on Udemy, but covers individual concepts in freely available YouTube videos.  Best for: all-round guide to developer tasks.  Some individual concepts (components in vanilla JS, JavaScript higher order functions)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pulmunen/js-learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 10. On YouTube: Codevolution
+https://codepen.io/Pulmunen/
+Sells a Front End developer course, but free YouTube courses are second to none.  Best for: tricker JavaScript concepts (promises), React (full course available for free)
